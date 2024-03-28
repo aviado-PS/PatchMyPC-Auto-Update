@@ -11,4 +11,4 @@ This PowerShell script automates the process of updating PatchMyPC application. 
 
 ## Author
 
-This script was authored by [Aviad Ofek](https://github.com/aviado-PS).
+This script was authored by [Aviad Ofek](https://github.com/aviado1).
